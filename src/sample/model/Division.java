@@ -1,4 +1,4 @@
-package sample.service;
+package sample.model;
 
 public class Division {
 
